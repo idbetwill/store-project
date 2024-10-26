@@ -1,0 +1,14 @@
+D:\src\idbetwill\store-project\obj\Debug\net8.0\store-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\idbetwill\store-project\obj\Debug\net8.0\store-project.AssemblyInfoInputs.cache
+D:\src\idbetwill\store-project\obj\Debug\net8.0\store-project.AssemblyInfo.cs
+D:\src\idbetwill\store-project\obj\Debug\net8.0\store-project.csproj.CoreCompileInputs.cache
+D:\src\idbetwill\store-project\bin\Debug\net8.0\store-project.exe
+D:\src\idbetwill\store-project\bin\Debug\net8.0\store-project.deps.json
+D:\src\idbetwill\store-project\bin\Debug\net8.0\store-project.runtimeconfig.json
+D:\src\idbetwill\store-project\bin\Debug\net8.0\store-project.dll
+D:\src\idbetwill\store-project\bin\Debug\net8.0\store-project.pdb
+D:\src\idbetwill\store-project\obj\Debug\net8.0\store-project.dll
+D:\src\idbetwill\store-project\obj\Debug\net8.0\refint\store-project.dll
+D:\src\idbetwill\store-project\obj\Debug\net8.0\store-project.pdb
+D:\src\idbetwill\store-project\obj\Debug\net8.0\store-project.genruntimeconfig.cache
+D:\src\idbetwill\store-project\obj\Debug\net8.0\ref\store-project.dll
